@@ -125,24 +125,24 @@ Config.AuthorizedVehicles = {
 	-- Grade 0
 	[0] = {
 		["police"] = "Police Car 1",
-		["police2"] = "Police Car 2",
-		["police3"] = "Police Car 3",
-		["police4"] = "Police Car 4",
+		--["police2"] = "Police Car 2",
+		--["police3"] = "Police Car 3",
+		--["police4"] = "Police Car 4",
 		["policeb"] = "Police Car 5",
-		["policet"] = "Police Car 6",
+		--["policet"] = "Police Car 6",
 		["sheriff"] = "Sheriff Car 1",
-		["sheriff2"] = "Sheriff Car 2",
+		--["sheriff2"] = "Sheriff Car 2",
 	},
 	-- Grade 1
 	[1] = {
 		["police"] = "Police Car 1",
 		["police2"] = "Police Car 2",
 		["police3"] = "Police Car 3",
-		["police4"] = "Police Car 4",
+		--["police4"] = "Police Car 4",
 		["policeb"] = "Police Car 5",
-		["policet"] = "Police Car 6",
+		--["policet"] = "Police Car 6",
 		["sheriff"] = "Sheriff Car 1",
-		["sheriff2"] = "Sheriff Car 2",
+		--["sheriff2"] = "Sheriff Car 2",
 
 	},
 	-- Grade 2
@@ -152,7 +152,7 @@ Config.AuthorizedVehicles = {
 		["police3"] = "Police Car 3",
 		["police4"] = "Police Car 4",
 		["policeb"] = "Police Car 5",
-		["policet"] = "Police Car 6",
+		--["policet"] = "Police Car 6",
 		["sheriff"] = "Sheriff Car 1",
 		["sheriff2"] = "Sheriff Car 2",
 	},
@@ -166,6 +166,7 @@ Config.AuthorizedVehicles = {
 		["policet"] = "Police Car 6",
 		["sheriff"] = "Sheriff Car 1",
 		["sheriff2"] = "Sheriff Car 2",
+		["roit"] = "Riot Van",
 	},
 	-- Grade 4
 	[4] = {
@@ -177,6 +178,7 @@ Config.AuthorizedVehicles = {
 		["policet"] = "Police Car 6",
 		["sheriff"] = "Sheriff Car 1",
 		["sheriff2"] = "Sheriff Car 2",
+		["roit"] = "Riot Van",
 	}
 }
 
