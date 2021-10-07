@@ -166,7 +166,7 @@ Config.AuthorizedVehicles = {
 		["policet"] = "Police Car 6",
 		["sheriff"] = "Sheriff Car 1",
 		["sheriff2"] = "Sheriff Car 2",
-		["roit"] = "Riot Van",
+		["riot"] = "Riot Van",
 	},
 	-- Grade 4
 	[4] = {
@@ -178,7 +178,7 @@ Config.AuthorizedVehicles = {
 		["policet"] = "Police Car 6",
 		["sheriff"] = "Sheriff Car 1",
 		["sheriff2"] = "Sheriff Car 2",
-		["roit"] = "Riot Van",
+		["riot"] = "Riot Van",
 	}
 }
 
